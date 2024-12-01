@@ -1,5 +1,5 @@
----
 
+```markdown
 - 👋 Hi, I’m **@AnujSatavase**
 - 👀 I’m passionate about **Data Analysis**, **AI Development**, and **Data Science**.
 - 🌱 I’m currently exploring advanced **Python** techniques, **SQL**, and **Generative AI tools**.
@@ -11,5 +11,6 @@
 AnujSat1998/AnujSat1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+```
 
----
+This should work fine and be error-free.
